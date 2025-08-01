@@ -1,2 +1,1 @@
-# hello-world
-This repository is for practicing GitHub Flow.
+I code in Java on VSC. I enjoy coding games and functional things.
